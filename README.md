@@ -1,2 +1,2 @@
 # TextEditor
-A Notepad style app built in C/C++
+A Notepad style app written in C/C++
